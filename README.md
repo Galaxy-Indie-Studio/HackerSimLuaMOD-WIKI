@@ -16,5 +16,7 @@ The first thing that you want to do is unzip your game. Now that may come to a s
 ![lovefile](https://user-images.githubusercontent.com/85016240/169693645-8fecf50f-a058-4d7c-9001-6eb73e543cbf.png)
 ![zipfile](https://user-images.githubusercontent.com/85016240/169693674-bad6347c-63e1-40ac-a884-559f9c37c412.png)
 
-then use a file unzipper like winrar or something similar to it!
+then use a file unzipper like winrar or something similar to it! Now that is all done you should see something similar to this!
+
+![unzippedGame](https://user-images.githubusercontent.com/85016240/169693922-946a7f7e-112b-4cf5-975c-a989997ba776.png)
 
