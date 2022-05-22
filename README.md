@@ -37,18 +37,3 @@ main.lua
 
 please attempt to keep all main program structural integriety to the way that it is when you download the game! Inorder to modify it you may change specific things in the main.lua! This is anything that pertains to modifying anything that is ingame! This does not mean game design such as title, buttons etc
 
-# How To Get Started
-
-The first thing that you want to do is unzip your game. Now that may come to a suprise to you but it's actual quite simple! Hacker Sim was made using the Love 2D Framework which allows you to simple rename a .zip file to a .love file which runs the game! So rename the .love to .zip 
-
-![lovefile](https://user-images.githubusercontent.com/85016240/169693645-8fecf50f-a058-4d7c-9001-6eb73e543cbf.png)
-![zipfile](https://user-images.githubusercontent.com/85016240/169693674-bad6347c-63e1-40ac-a884-559f9c37c412.png)
-
-then use a file unzipper like winrar or something similar to it! Now that is all done you should see something similar to this!
-
-![unzippedGame](https://user-images.githubusercontent.com/85016240/169693922-946a7f7e-112b-4cf5-975c-a989997ba776.png)
-
-This is where the fun part comes in! So mods within hacker sim are made with scripts, with that being said it is probably a pretty good idea to setup a Mod Directory within your game! 
-
-![modfolder](https://user-images.githubusercontent.com/85016240/169694652-e95e0609-b06c-4a36-a42a-5b8c995c095d.png)
-
