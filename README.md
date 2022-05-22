@@ -9,7 +9,7 @@ Using any modules that are not within the zipped api file is a violation of user
 
 USER AGREEMENT
 -----------------------------------------
-By modifying any of the software provided by Galaxy Indie Studio, I agree that I shall only use/modify things that have been set forth by the company to be editable by the player! Anyone who violates these User Terms of Service can and will be banned from the permenantly banned from the game! Down below is the list of stuff that I may NOT modify! This is to maintain the intregity of ownership to Galaxy Indie Studio! Any violations of this Agreement is also persueably under criminal action! Everything within the game is Copyrighted and Trademarked by Galaxy Indie Studio.
+By modifying any of the software provided by Galaxy Indie Studio, I agree that I shall only use/modify things that have been set forth by the company to be editable by the player! Anyone who violates these User Terms of Service can and will be permenantly banned from the game! Down below is the list of stuff that I may NOT modify! This is to maintain the intregity of ownership to Galaxy Indie Studio! Any violations of this Agreement is also persueable under criminal action! Everything within the game is Copyrighted and Trademarked by Galaxy Indie Studio.
 
 DO NOT MODIFY
 ------------------------------------------
