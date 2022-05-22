@@ -14,13 +14,21 @@ By modifying any of the software provided by Galaxy Indie Studio, I agree that I
 DO NOT MODIFY
 ------------------------------------------
 Classes Directory
+
 run.bat
+
 conf.lua
+
 client.lua
+
 stocky.ttf
+
 Maps Directory
+
 Libraries Directory
+
 Assets Directory
+
 Modules Directory
 
 CAN MODIFY
