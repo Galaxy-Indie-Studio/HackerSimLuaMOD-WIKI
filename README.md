@@ -11,6 +11,9 @@ Using any modules that are not within the zipped api file is a violation of user
 
 #How To Get Started
 
-The first thing that you want to do is unzip your game. Now that may come to a suprise to you but it's actual quite simple! Hacker Sim was made using the 2D Framework which allows you to simple rename a .zip file to a .love file which runs the game! So rename the .love to .zip and then use a file unzipper like winrar or something similar to it!
+The first thing that you want to do is unzip your game. Now that may come to a suprise to you but it's actual quite simple! Hacker Sim was made using the 2D Framework which allows you to simple rename a .zip file to a .love file which runs the game! So rename the .love to .zip 
 ![lovefile](https://user-images.githubusercontent.com/85016240/169693645-8fecf50f-a058-4d7c-9001-6eb73e543cbf.png)
 ![zipfile](https://user-images.githubusercontent.com/85016240/169693674-bad6347c-63e1-40ac-a884-559f9c37c412.png)
+
+then use a file unzipper like winrar or something similar to it!
+
