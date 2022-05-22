@@ -48,3 +48,7 @@ then use a file unzipper like winrar or something similar to it! Now that is all
 
 ![unzippedGame](https://user-images.githubusercontent.com/85016240/169693922-946a7f7e-112b-4cf5-975c-a989997ba776.png)
 
+This is where the fun part comes in! So mods within hacker sim are made with scripts, with that being said it is probably a pretty good idea to setup a Mod Directory within your game! 
+
+![modfolder](https://user-images.githubusercontent.com/85016240/169694652-e95e0609-b06c-4a36-a42a-5b8c995c095d.png)
+
