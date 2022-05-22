@@ -7,7 +7,27 @@ Any content that is used outside of Hacker Sim that was created by Galaxy Indie 
 
 Using any modules that are not within the zipped api file is a violation of user terms of service
 
+USER AGREEMENT
+-----------------------------------------
+By modifying any of the software provided by Galaxy Indie Studio, I agree that I shall only use/modify things that have been set forth by the company to be editable by the player! Anyone who violates these User Terms of Service can and will be banned from the permenantly banned from the game! Down below is the list of stuff that I may NOT modify! This is to maintain the intregity of ownership to Galaxy Indie Studio! Any violations of this Agreement is also persueably under criminal action! Everything within the game is Copyrighted and Trademarked by Galaxy Indie Studio.
 
+DO NOT MODIFY
+------------------------------------------
+Classes Directory
+run.bat
+conf.lua
+client.lua
+stocky.ttf
+Maps Directory
+Libraries Directory
+Assets Directory
+Modules Directory
+
+CAN MODIFY
+--------------------------
+main.lua
+
+please attempt to keep all main program structural integriety to the way that it is when you download the game! Inorder to modify it you may change specific things in the main.lua! This is anything that pertains to modifying anything that is ingame! This does not mean game design such as title, buttons etc
 
 # How To Get Started
 
